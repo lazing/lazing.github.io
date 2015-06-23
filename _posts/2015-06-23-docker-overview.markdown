@@ -44,7 +44,7 @@ Docker 社区极为活跃，变更极大。开始使用之前，最好先看看[
 这点类似 Vagrant，各有利弊。Docker 更模块化。Vagrant 概念更加容易理解。
 如何开始？这里是 [Mac OSX 下 Rails Docker开发案例](https://robots.thoughtbot.com/rails-on-docker)
 
-将里面所说的 fig 换成 docker-composer 即可，语法都是一样的。
+将里面所说的 fig 换成 docker-compose 即可，语法都是一样的。
 
 整体说来的结构如下
 
@@ -70,9 +70,9 @@ docker 在容器中运行后，可以打包成新的镜像分发。其中还引�
 
 docker 的哲学中，模块化是弹性的基础。
 
-因此，我们需要 docker-composer.yml 来定义容器间的运行时关系。
+因此，我们需要 docker-compose.yml 来定义容器间的运行时关系。
 
-docker-composer 会自动将相关的依赖注入各个 docker 容器的环境变量。正确的应用这些特性才能灵活的扩展。
+docker-compose 会自动将相关的依赖注入各个 docker 容器的环境变量。正确的应用这些特性才能灵活的扩展。
 
 还请详细参考[官方的 Rails Docker 开发参考](https://docs.docker.com/compose/rails/)
 
