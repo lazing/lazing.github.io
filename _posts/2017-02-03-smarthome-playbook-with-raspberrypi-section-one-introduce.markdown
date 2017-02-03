@@ -43,7 +43,7 @@ Smart Home这个主题从几年前燎原到现在消停，似乎已经过时了�
 
 本文将涉及的技术或产品有：
 
-* Apple Home 与 Sir
+* Apple Home 与 Siri
 * Raspberry PI 3 Model B
 * SSH 及 Debian Linux 操作
 * 路由器管理和基本局域网知识
