@@ -2,7 +2,7 @@
 layout: post
 title:  "Playbook智能家居与树莓派(1)：好像可以玩玩了"
 date:   2017-02-03 20:06:41
-categories: smarthome,rasberrypi
+categories: smarthome rasberrypi
 ---
 
 Smart Home这个主题从几年前燎原到现在消停，似乎已经过时了。
